@@ -1,0 +1,689 @@
+id,id_kategori,kbli_2_digit_deskripsi,nama_variabel,tahun,jumlah
+1,559,Makanan,Kecil,2010,48320.0
+2,559,Makanan,Mikro,2010,881590.0
+3,559,Minuman,Mikro,2010,29848.0
+4,559,Minuman,Kecil,2010,547.0
+5,559,Pengolahan Tembakau,Mikro,2010,22804.0
+6,559,Pengolahan Tembakau,Kecil,2010,30365.0
+7,559,Tekstil,Mikro,2010,221054.0
+8,559,Tekstil,Kecil,2010,13603.0
+9,559,Pakaian Jadi,Mikro,2010,244810.0
+10,559,Pakaian Jadi,Kecil,2010,31738.0
+11,559,Kulit Barang dari Kulit dan Alas Kaki,Kecil,2010,6263.0
+12,559,Kulit Barang dari Kulit dan Alas Kaki,Mikro,2010,26647.0
+13,559,Kayu Barang dari Kayu dan Gabus (Tidak Termasuk Furnitur) dan Barang Anyaman dari Bambu Rotan dan sejenisnya,Kecil,2010,15345.0
+14,559,Kayu Barang dari Kayu dan Gabus (Tidak Termasuk Furnitur) dan Barang Anyaman dari Bambu Rotan dan sejenisnya,Mikro,2010,623761.0
+15,559,Kertas dan Barang dari Kertas,Kecil,2010,488.0
+16,559,Kertas dan Barang dari Kertas,Mikro,2010,6780.0
+17,559,Pencetakan dan Reproduksi Media Rekaman,Mikro,2010,19675.0
+18,559,Pencetakan dan Reproduksi Media Rekaman,Kecil,2010,4630.0
+19,559,Bahan Kimia dan Barang dari Bahan Kimia,Kecil,2010,945.0
+20,559,Bahan Kimia dan Barang dari Bahan Kimia,Mikro,2010,18223.0
+21,559,Farmasi Produk Obat Kimia dan Obat Tradisional,Kecil,2010,69.0
+22,559,Farmasi Produk Obat Kimia dan Obat Tradisional,Mikro,2010,4974.0
+23,559,Karet Barang dari Karet dan Plastik,Kecil,2010,1440.0
+24,559,Karet Barang dari Karet dan Plastik,Mikro,2010,12346.0
+25,559,Barang Galian Bukan Logam,Kecil,2010,22429.0
+26,559,Barang Galian Bukan Logam,Mikro,2010,193129.0
+27,559,Logam Dasar,Mikro,2010,1288.0
+28,559,Logam Dasar,Kecil,2010,265.0
+29,559,Barang Logam Bukan Mesin dan Peralatannya,Mikro,2010,54571.0
+30,559,Barang Logam Bukan Mesin dan Peralatannya,Kecil,2010,7160.0
+31,559,Komputer Barang Elektronik dan Optik,Kecil,2010,37.0
+32,559,Komputer Barang Elektronik dan Optik,Mikro,2010,397.0
+33,559,Peralatan Listrik,Kecil,2010,86.0
+34,559,Peralatan Listrik,Mikro,2010,113.0
+35,559,Mesin dan Perlengkapan ytdl,Mikro,2010,1129.0
+36,559,Mesin dan Perlengkapan ytdl,Kecil,2010,411.0
+37,559,Kendaraan Bermotor Trailer dan Semi Trailer,Kecil,2010,174.0
+38,559,Kendaraan Bermotor Trailer dan Semi Trailer,Mikro,2010,3314.0
+39,559,Alat Angkutan Lainnya,Mikro,2010,4383.0
+40,559,Alat Angkutan Lainnya,Kecil,2010,325.0
+41,559,Furnitur,Kecil,2010,10228.0
+42,559,Furnitur,Mikro,2010,96938.0
+43,559,Pengolahan Lainnya,Mikro,2010,55592.0
+44,559,Pengolahan Lainnya,Kecil,2010,7306.0
+45,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Mikro,2010,6481.0
+46,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Kecil,2010,703.0
+47,559,JUMLAH,Mikro,2010,2529847.0
+48,559,JUMLAH,Kecil,2010,202877.0
+49,559,Makanan,Kecil,2011,118403.0
+50,559,Makanan,Mikro,2011,872869.0
+51,559,Minuman,Mikro,2011,32516.0
+52,559,Minuman,Kecil,2011,1408.0
+53,559,Pengolahan Tembakau,Kecil,2011,452.0
+54,559,Pengolahan Tembakau,Mikro,2011,54258.0
+55,559,Tekstil,Mikro,2011,226017.0
+56,559,Tekstil,Kecil,2011,17117.0
+57,559,Pakaian Jadi,Kecil,2011,101629.0
+58,559,Pakaian Jadi,Mikro,2011,202809.0
+59,559,Kulit Barang dari Kulit dan Alas Kaki,Kecil,2011,18959.0
+60,559,Kulit Barang dari Kulit dan Alas Kaki,Mikro,2011,17690.0
+61,559,Kayu Barang dari Kayu dan Gabus (Tidak Termasuk Furnitur) dan Barang Anyaman dari Bambu Rotan dan sejenisnya,Kecil,2011,39442.0
+62,559,Kayu Barang dari Kayu dan Gabus (Tidak Termasuk Furnitur) dan Barang Anyaman dari Bambu Rotan dan sejenisnya,Mikro,2011,697970.0
+63,559,Kertas dan Barang dari Kertas,Kecil,2011,886.0
+64,559,Kertas dan Barang dari Kertas,Mikro,2011,6628.0
+65,559,Pencetakan dan Reproduksi Media Rekaman,Kecil,2011,8629.0
+66,559,Pencetakan dan Reproduksi Media Rekaman,Mikro,2011,19058.0
+67,559,Bahan Kimia dan Barang dari Bahan Kimia,Mikro,2011,23678.0
+68,559,Bahan Kimia dan Barang dari Bahan Kimia,Kecil,2011,1810.0
+69,559,Farmasi Produk Obat Kimia dan Obat Tradisional,Kecil,2011,39.0
+70,559,Farmasi Produk Obat Kimia dan Obat Tradisional,Mikro,2011,3862.0
+71,559,Karet Barang dari Karet dan Plastik,Kecil,2011,1472.0
+72,559,Karet Barang dari Karet dan Plastik,Mikro,2011,14457.0
+73,559,Barang Galian Bukan Logam,Mikro,2011,179578.0
+74,559,Barang Galian Bukan Logam,Kecil,2011,59830.0
+75,559,Logam Dasar,Mikro,2011,815.0
+76,559,Logam Dasar,Kecil,2011,766.0
+77,559,Barang Logam Bukan Mesin dan Peralatannya,Mikro,2011,68827.0
+78,559,Barang Logam Bukan Mesin dan Peralatannya,Kecil,2011,17986.0
+79,559,Komputer Barang Elektronik dan Optik,Mikro,2011,238.0
+80,559,Komputer Barang Elektronik dan Optik,Kecil,2011,39.0
+81,559,Peralatan Listrik,Mikro,2011,829.0
+82,559,Peralatan Listrik,Kecil,2011,36.0
+83,559,Mesin dan Perlengkapan ytdl,Mikro,2011,308.0
+84,559,Mesin dan Perlengkapan ytdl,Kecil,2011,514.0
+85,559,Kendaraan Bermotor Trailer dan Semi Trailer,Mikro,2011,1610.0
+86,559,Kendaraan Bermotor Trailer dan Semi Trailer,Kecil,2011,1195.0
+87,559,Alat Angkutan Lainnya,Kecil,2011,786.0
+88,559,Alat Angkutan Lainnya,Mikro,2011,6425.0
+89,559,Furnitur,Kecil,2011,22307.0
+90,559,Furnitur,Mikro,2011,66687.0
+91,559,Pengolahan Lainnya,Kecil,2011,9459.0
+92,559,Pengolahan Lainnya,Mikro,2011,51986.0
+93,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Kecil,2011,1120.0
+94,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Mikro,2011,5616.0
+95,559,JUMLAH,Mikro,2011,2554787.0
+96,559,JUMLAH,Kecil,2011,424284.0
+97,559,Makanan,Kecil,2012,70712.0
+98,559,Makanan,Mikro,2012,871898.0
+99,559,Minuman,Mikro,2012,51069.0
+100,559,Minuman,Kecil,2012,2605.0
+101,559,Pengolahan Tembakau,Kecil,2012,856.0
+102,559,Pengolahan Tembakau,Mikro,2012,32535.0
+103,559,Tekstil,Kecil,2012,15008.0
+104,559,Tekstil,Mikro,2012,192149.0
+105,559,Pakaian Jadi,Mikro,2012,347887.0
+106,559,Pakaian Jadi,Kecil,2012,107141.0
+107,559,Kulit Barang dari Kulit dan Alas Kaki,Mikro,2012,37514.0
+108,559,Kulit Barang dari Kulit dan Alas Kaki,Kecil,2012,16417.0
+109,559,Kayu Barang dari Kayu dan Gabus (Tidak Termasuk Furnitur) dan Barang Anyaman dari Bambu Rotan dan sejenisnya,Kecil,2012,29850.0
+110,559,Kayu Barang dari Kayu dan Gabus (Tidak Termasuk Furnitur) dan Barang Anyaman dari Bambu Rotan dan sejenisnya,Mikro,2012,554992.0
+111,559,Kertas dan Barang dari Kertas,Kecil,2012,1400.0
+112,559,Kertas dan Barang dari Kertas,Mikro,2012,9487.0
+113,559,Pencetakan dan Reproduksi Media Rekaman,Mikro,2012,34320.0
+114,559,Pencetakan dan Reproduksi Media Rekaman,Kecil,2012,17596.0
+115,559,Bahan Kimia dan Barang dari Bahan Kimia,Mikro,2012,16002.0
+116,559,Bahan Kimia dan Barang dari Bahan Kimia,Kecil,2012,164.0
+117,559,Farmasi Produk Obat Kimia dan Obat Tradisional,Mikro,2012,10909.0
+118,559,Farmasi Produk Obat Kimia dan Obat Tradisional,Kecil,2012,1.0
+119,559,Karet Barang dari Karet dan Plastik,Mikro,2012,23300.0
+120,559,Karet Barang dari Karet dan Plastik,Kecil,2012,2813.0
+121,559,Barang Galian Bukan Logam,Kecil,2012,48808.0
+122,559,Barang Galian Bukan Logam,Mikro,2012,233396.0
+123,559,Logam Dasar,Mikro,2012,369.0
+124,559,Logam Dasar,Kecil,2012,88.0
+125,559,Barang Logam Bukan Mesin dan Peralatannya,Mikro,2012,118106.0
+126,559,Barang Logam Bukan Mesin dan Peralatannya,Kecil,2012,18050.0
+127,559,Komputer Barang Elektronik dan Optik,Mikro,2012,79.0
+128,559,Komputer Barang Elektronik dan Optik,Kecil,2012,29.0
+129,559,Peralatan Listrik,Kecil,2012,725.0
+130,559,Peralatan Listrik,Mikro,2012,551.0
+131,559,Mesin dan Perlengkapan ytdl,Kecil,2012,686.0
+132,559,Mesin dan Perlengkapan ytdl,Mikro,2012,10542.0
+133,559,Kendaraan Bermotor Trailer dan Semi Trailer,Kecil,2012,524.0
+134,559,Kendaraan Bermotor Trailer dan Semi Trailer,Mikro,2012,1433.0
+135,559,Alat Angkutan Lainnya,Kecil,2012,610.0
+136,559,Alat Angkutan Lainnya,Mikro,2012,8138.0
+137,559,Furnitur,Kecil,2012,46226.0
+138,559,Furnitur,Mikro,2012,136983.0
+139,559,Pengolahan Lainnya,Mikro,2012,113818.0
+140,559,Pengolahan Lainnya,Kecil,2012,23884.0
+141,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Mikro,2012,7270.0
+142,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Kecil,2012,1103.0
+143,559,JUMLAH,Mikro,2012,2812747.0
+144,559,JUMLAH,Kecil,2012,405296.0
+145,559,Makanan,Mikro,2013,1008890.0
+146,559,Makanan,Kecil,2013,158651.0
+147,559,Minuman,Mikro,2013,45508.0
+148,559,Minuman,Kecil,2013,1962.0
+149,559,Pengolahan Tembakau,Mikro,2013,48887.0
+150,559,Pengolahan Tembakau,Kecil,2013,14823.0
+151,559,Tekstil,Kecil,2013,27541.0
+152,559,Tekstil,Mikro,2013,265498.0
+153,559,Pakaian Jadi,Mikro,2013,240833.0
+154,559,Pakaian Jadi,Kecil,2013,99169.0
+155,559,Kulit Barang dari Kulit dan Alas Kaki,Mikro,2013,17326.0
+156,559,Kulit Barang dari Kulit dan Alas Kaki,Kecil,2013,22824.0
+157,559,Kayu Barang dari Kayu dan Gabus (Tidak Termasuk Furnitur) dan Barang Anyaman dari Bambu Rotan dan sejenisnya,Kecil,2013,53130.0
+158,559,Kayu Barang dari Kayu dan Gabus (Tidak Termasuk Furnitur) dan Barang Anyaman dari Bambu Rotan dan sejenisnya,Mikro,2013,728786.0
+159,559,Kertas dan Barang dari Kertas,Mikro,2013,8672.0
+160,559,Kertas dan Barang dari Kertas,Kecil,2013,1430.0
+161,559,Pencetakan dan Reproduksi Media Rekaman,Mikro,2013,22918.0
+162,559,Pencetakan dan Reproduksi Media Rekaman,Kecil,2013,8666.0
+163,559,Bahan Kimia dan Barang dari Bahan Kimia,Mikro,2013,20181.0
+164,559,Bahan Kimia dan Barang dari Bahan Kimia,Kecil,2013,3987.0
+165,559,Farmasi Produk Obat Kimia dan Obat Tradisional,Kecil,2013,909.0
+166,559,Farmasi Produk Obat Kimia dan Obat Tradisional,Mikro,2013,5607.0
+167,559,Karet Barang dari Karet dan Plastik,Mikro,2013,19999.0
+168,559,Karet Barang dari Karet dan Plastik,Kecil,2013,1999.0
+169,559,Barang Galian Bukan Logam,Mikro,2013,196845.0
+170,559,Barang Galian Bukan Logam,Kecil,2013,69017.0
+171,559,Logam Dasar,Kecil,2013,310.0
+172,559,Logam Dasar,Mikro,2013,1080.0
+173,559,Barang Logam Bukan Mesin dan Peralatannya,Mikro,2013,61801.0
+174,559,Barang Logam Bukan Mesin dan Peralatannya,Kecil,2013,17934.0
+175,559,Komputer Barang Elektronik dan Optik,Mikro,2013,121.0
+176,559,Komputer Barang Elektronik dan Optik,Kecil,2013,218.0
+177,559,Peralatan Listrik,Mikro,2013,324.0
+178,559,Peralatan Listrik,Kecil,2013,291.0
+179,559,Mesin dan Perlengkapan ytdl,Mikro,2013,633.0
+180,559,Mesin dan Perlengkapan ytdl,Kecil,2013,1178.0
+181,559,Kendaraan Bermotor Trailer dan Semi Trailer,Mikro,2013,1800.0
+182,559,Kendaraan Bermotor Trailer dan Semi Trailer,Kecil,2013,1449.0
+183,559,Alat Angkutan Lainnya,Mikro,2013,5537.0
+184,559,Alat Angkutan Lainnya,Kecil,2013,839.0
+185,559,Furnitur,Mikro,2013,102957.0
+186,559,Furnitur,Kecil,2013,30874.0
+187,559,Pengolahan Lainnya,Mikro,2013,75071.0
+188,559,Pengolahan Lainnya,Kecil,2013,13723.0
+189,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Mikro,2013,7741.0
+190,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Kecil,2013,427.0
+191,559,JUMLAH,Mikro,2013,2887015.0
+192,559,JUMLAH,Kecil,2013,531351.0
+193,559,Makanan,Mikro,2014,1125425.0
+194,559,Makanan,Kecil,2014,73066.0
+195,559,Minuman,Kecil,2014,1401.0
+196,559,Minuman,Mikro,2014,43293.0
+197,559,Pengolahan Tembakau,Kecil,2014,21590.0
+198,559,Pengolahan Tembakau,Mikro,2014,43152.0
+199,559,Tekstil,Kecil,2014,12246.0
+200,559,Tekstil,Mikro,2014,291151.0
+201,559,Pakaian Jadi,Mikro,2014,304418.0
+202,559,Pakaian Jadi,Kecil,2014,50165.0
+203,559,Kulit Barang dari Kulit dan Alas Kaki,Mikro,2014,30789.0
+204,559,Kulit Barang dari Kulit dan Alas Kaki,Kecil,2014,12477.0
+205,559,Kayu Barang dari Kayu dan Gabus (Tidak Termasuk Furnitur) dan Barang Anyaman dari Bambu Rotan dan sejenisnya,Mikro,2014,784753.0
+206,559,Kayu Barang dari Kayu dan Gabus (Tidak Termasuk Furnitur) dan Barang Anyaman dari Bambu Rotan dan sejenisnya,Kecil,2014,20729.0
+207,559,Kertas dan Barang dari Kertas,Kecil,2014,1160.0
+208,559,Kertas dan Barang dari Kertas,Mikro,2014,7904.0
+209,559,Pencetakan dan Reproduksi Media Rekaman,Kecil,2014,8295.0
+210,559,Pencetakan dan Reproduksi Media Rekaman,Mikro,2014,22719.0
+211,559,Bahan Kimia dan Barang dari Bahan Kimia,Kecil,2014,1813.0
+212,559,Bahan Kimia dan Barang dari Bahan Kimia,Mikro,2014,22065.0
+213,559,Farmasi Produk Obat Kimia dan Obat Tradisional,Mikro,2014,6206.0
+214,559,Farmasi Produk Obat Kimia dan Obat Tradisional,Kecil,2014,238.0
+215,559,Karet Barang dari Karet dan Plastik,Kecil,2014,2790.0
+216,559,Karet Barang dari Karet dan Plastik,Mikro,2014,14300.0
+217,559,Barang Galian Bukan Logam,Kecil,2014,33324.0
+218,559,Barang Galian Bukan Logam,Mikro,2014,242242.0
+219,559,Logam Dasar,Kecil,2014,146.0
+220,559,Logam Dasar,Mikro,2014,1801.0
+221,559,Barang Logam Bukan Mesin dan Peralatannya,Mikro,2014,67825.0
+222,559,Barang Logam Bukan Mesin dan Peralatannya,Kecil,2014,12749.0
+223,559,Komputer Barang Elektronik dan Optik,Kecil,2014,134.0
+224,559,Komputer Barang Elektronik dan Optik,Mikro,2014,224.0
+225,559,Peralatan Listrik,Mikro,2014,32.0
+226,559,Peralatan Listrik,Kecil,2014,220.0
+227,559,Mesin dan Perlengkapan ytdl,Mikro,2014,1265.0
+228,559,Mesin dan Perlengkapan ytdl,Kecil,2014,394.0
+229,559,Kendaraan Bermotor Trailer dan Semi Trailer,Kecil,2014,2042.0
+230,559,Kendaraan Bermotor Trailer dan Semi Trailer,Mikro,2014,1530.0
+231,559,Alat Angkutan Lainnya,Kecil,2014,903.0
+232,559,Alat Angkutan Lainnya,Mikro,2014,5546.0
+233,559,Furnitur,Mikro,2014,122182.0
+234,559,Furnitur,Kecil,2014,19475.0
+235,559,Pengolahan Lainnya,Mikro,2014,73274.0
+236,559,Pengolahan Lainnya,Kecil,2014,9031.0
+237,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Kecil,2014,113.0
+238,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Mikro,2014,8467.0
+239,559,JUMLAH,Mikro,2014,3220563.0
+240,559,JUMLAH,Kecil,2014,284501.0
+241,559,Makanan,Mikro,2015,1473205.0
+242,559,Makanan,Kecil,2015,93814.0
+243,559,Minuman,Mikro,2015,45922.0
+244,559,Minuman,Kecil,2015,1208.0
+245,559,Pengolahan Tembakau,Mikro,2015,43371.0
+246,559,Pengolahan Tembakau,Kecil,2015,19750.0
+247,559,Tekstil,Kecil,2015,4188.0
+248,559,Tekstil,Mikro,2015,127245.0
+249,559,Pakaian Jadi,Mikro,2015,360622.0
+250,559,Pakaian Jadi,Kecil,2015,46601.0
+251,559,Kulit Barang dari Kulit dan Alas Kaki,Mikro,2015,32136.0
+252,559,Kulit Barang dari Kulit dan Alas Kaki,Kecil,2015,12686.0
+253,559,Kayu Barang dari Kayu dan Gabus (Tidak Termasuk Furnitur) dan Barang Anyaman dari Bambu Rotan dan sejenisnya,Kecil,2015,19954.0
+254,559,Kayu Barang dari Kayu dan Gabus (Tidak Termasuk Furnitur) dan Barang Anyaman dari Bambu Rotan dan sejenisnya,Mikro,2015,674970.0
+255,559,Kertas dan Barang dari Kertas,Mikro,2015,4633.0
+256,559,Kertas dan Barang dari Kertas,Kecil,2015,1096.0
+257,559,Pencetakan dan Reproduksi Media Rekaman,Mikro,2015,20025.0
+258,559,Pencetakan dan Reproduksi Media Rekaman,Kecil,2015,5330.0
+259,559,Bahan Kimia dan Barang dari Bahan Kimia,Mikro,2015,20081.0
+260,559,Bahan Kimia dan Barang dari Bahan Kimia,Kecil,2015,1558.0
+261,559,Farmasi Produk Obat Kimia dan Obat Tradisional,Mikro,2015,4464.0
+262,559,Farmasi Produk Obat Kimia dan Obat Tradisional,Kecil,2015,526.0
+263,559,Karet Barang dari Karet dan Plastik,Kecil,2015,492.0
+264,559,Karet Barang dari Karet dan Plastik,Mikro,2015,10155.0
+265,559,Barang Galian Bukan Logam,Kecil,2015,29758.0
+266,559,Barang Galian Bukan Logam,Mikro,2015,234762.0
+267,559,Logam Dasar,Kecil,2015,461.0
+268,559,Logam Dasar,Mikro,2015,31122.0
+269,559,Barang Logam Bukan Mesin dan Peralatannya,Kecil,2015,13990.0
+270,559,Barang Logam Bukan Mesin dan Peralatannya,Mikro,2015,99046.0
+271,559,Komputer Barang Elektronik dan Optik,Mikro,2015,46.0
+272,559,Komputer Barang Elektronik dan Optik,Kecil,2015,260.0
+273,559,Peralatan Listrik,Mikro,2015,162.0
+274,559,Peralatan Listrik,Kecil,2015,54.0
+275,559,Mesin dan Perlengkapan ytdl,Mikro,2015,952.0
+276,559,Mesin dan Perlengkapan ytdl,Kecil,2015,258.0
+277,559,Kendaraan Bermotor Trailer dan Semi Trailer,Kecil,2015,666.0
+278,559,Kendaraan Bermotor Trailer dan Semi Trailer,Mikro,2015,1700.0
+279,559,Alat Angkutan Lainnya,Mikro,2015,4076.0
+280,559,Alat Angkutan Lainnya,Kecil,2015,972.0
+281,559,Furnitur,Mikro,2015,117901.0
+282,559,Furnitur,Kecil,2015,20699.0
+283,559,Pengolahan Lainnya,Kecil,2015,8123.0
+284,559,Pengolahan Lainnya,Mikro,2015,73002.0
+285,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Mikro,2015,6253.0
+286,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Kecil,2015,578.0
+287,559,JUMLAH,Kecil,2015,283022.0
+288,559,JUMLAH,Mikro,2015,3385851.0
+289,559,Makanan,Mikro,2017,1467095.0
+290,559,Makanan,Kecil,2017,71022.0
+291,559,Minuman,Kecil,2017,1698.0
+292,559,Minuman,Mikro,2017,132568.0
+293,559,Pengolahan Tembakau,Kecil,2017,104933.0
+294,559,Pengolahan Tembakau,Mikro,2017,80561.0
+295,559,Tekstil,Kecil,2017,9042.0
+296,559,Tekstil,Mikro,2017,274184.0
+297,559,Pakaian Jadi,Kecil,2017,41000.0
+298,559,Pakaian Jadi,Mikro,2017,513003.0
+299,559,Kulit Barang dari Kulit dan Alas Kaki,Mikro,2017,62415.0
+300,559,Kulit Barang dari Kulit dan Alas Kaki,Kecil,2017,13858.0
+301,559,Kayu Barang dari Kayu dan Gabus (Tidak Termasuk Furnitur) dan Barang Anyaman dari Bambu Rotan dan sejenisnya,Mikro,2017,590836.0
+302,559,Kayu Barang dari Kayu dan Gabus (Tidak Termasuk Furnitur) dan Barang Anyaman dari Bambu Rotan dan sejenisnya,Kecil,2017,17506.0
+303,559,Kertas dan Barang dari Kertas,Kecil,2017,496.0
+304,559,Kertas dan Barang dari Kertas,Mikro,2017,6146.0
+305,559,Pencetakan dan Reproduksi Media Rekaman,Kecil,2017,7705.0
+306,559,Pencetakan dan Reproduksi Media Rekaman,Mikro,2017,37167.0
+307,559,Produk dari Batu Bara dan Pengilangan Minyak Bumi,Kecil,2017,0.0
+308,559,Produk dari Batu Bara dan Pengilangan Minyak Bumi,Mikro,2017,0.0
+309,559,Bahan Kimia dan Barang dari Bahan Kimia,Kecil,2017,1235.0
+310,559,Bahan Kimia dan Barang dari Bahan Kimia,Mikro,2017,37566.0
+311,559,Farmasi Produk Obat Kimia dan Obat Tradisional,Mikro,2017,15843.0
+312,559,Farmasi Produk Obat Kimia dan Obat Tradisional,Kecil,2017,201.0
+313,559,Karet Barang dari Karet dan Plastik,Mikro,2017,27737.0
+314,559,Karet Barang dari Karet dan Plastik,Kecil,2017,2329.0
+315,559,Barang Galian Bukan Logam,Kecil,2017,38222.0
+316,559,Barang Galian Bukan Logam,Mikro,2017,287011.0
+317,559,Logam Dasar,Kecil,2017,458.0
+318,559,Logam Dasar,Mikro,2017,8917.0
+319,559,Barang Logam Bukan Mesin dan Peralatannya,Kecil,2017,15720.0
+320,559,Barang Logam Bukan Mesin dan Peralatannya,Mikro,2017,168735.0
+321,559,Komputer Barang Elektronik dan Optik,Mikro,2017,1049.0
+322,559,Komputer Barang Elektronik dan Optik,Kecil,2017,256.0
+323,559,Peralatan Listrik,Kecil,2017,246.0
+324,559,Peralatan Listrik,Mikro,2017,1085.0
+325,559,Mesin dan Perlengkapan ytdl,Kecil,2017,538.0
+326,559,Mesin dan Perlengkapan ytdl,Mikro,2017,1728.0
+327,559,Kendaraan Bermotor Trailer dan Semi Trailer,Kecil,2017,453.0
+328,559,Kendaraan Bermotor Trailer dan Semi Trailer,Mikro,2017,1628.0
+329,559,Alat Angkutan Lainnya,Mikro,2017,10379.0
+330,559,Alat Angkutan Lainnya,Kecil,2017,590.0
+331,559,Furnitur,Kecil,2017,23469.0
+332,559,Furnitur,Mikro,2017,157096.0
+333,559,Pengolahan Lainnya,Mikro,2017,216745.0
+334,559,Pengolahan Lainnya,Kecil,2017,7481.0
+335,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Kecil,2017,333.0
+336,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Mikro,2017,6403.0
+337,559,JUMLAH,Mikro,2017,4105897.0
+338,559,JUMLAH,Kecil,2017,358791.0
+339,559,Makanan,Kecil,2018,59793.0
+340,559,Makanan,Mikro,2018,1681986.0
+341,559,Minuman,Kecil,2018,2310.0
+342,559,Minuman,Mikro,2018,111703.0
+343,559,Pengolahan Tembakau,Kecil,2018,73173.0
+344,559,Pengolahan Tembakau,Mikro,2018,51406.0
+345,559,Tekstil,Mikro,2018,253508.0
+346,559,Tekstil,Kecil,2018,8016.0
+347,559,Pakaian Jadi,Kecil,2018,32139.0
+348,559,Pakaian Jadi,Mikro,2018,537606.0
+349,559,Kulit Barang dari Kulit dan Alas Kaki,Kecil,2018,11845.0
+350,559,Kulit Barang dari Kulit dan Alas Kaki,Mikro,2018,52438.0
+351,559,Kayu Barang dari Kayu dan Gabus (Tidak Termasuk Furnitur) dan Barang Anyaman dari Bambu Rotan dan sejenisnya,Kecil,2018,11752.0
+352,559,Kayu Barang dari Kayu dan Gabus (Tidak Termasuk Furnitur) dan Barang Anyaman dari Bambu Rotan dan sejenisnya,Mikro,2018,579132.0
+353,559,Kertas dan Barang dari Kertas,Kecil,2018,932.0
+354,559,Kertas dan Barang dari Kertas,Mikro,2018,5823.0
+355,559,Pencetakan dan Reproduksi Media Rekaman,Kecil,2018,4704.0
+356,559,Pencetakan dan Reproduksi Media Rekaman,Mikro,2018,32583.0
+357,559,Produk dari Batu Bara dan Pengilangan Minyak Bumi,Mikro,2018,0.0
+358,559,Produk dari Batu Bara dan Pengilangan Minyak Bumi,Kecil,2018,0.0
+359,559,Bahan Kimia dan Barang dari Bahan Kimia,Kecil,2018,919.0
+360,559,Bahan Kimia dan Barang dari Bahan Kimia,Mikro,2018,27917.0
+361,559,Farmasi Produk Obat Kimia dan Obat Tradisional,Mikro,2018,8468.0
+362,559,Farmasi Produk Obat Kimia dan Obat Tradisional,Kecil,2018,204.0
+363,559,Karet Barang dari Karet dan Plastik,Mikro,2018,9270.0
+364,559,Karet Barang dari Karet dan Plastik,Kecil,2018,3558.0
+365,559,Barang Galian Bukan Logam,Kecil,2018,24553.0
+366,559,Barang Galian Bukan Logam,Mikro,2018,201541.0
+367,559,Logam Dasar,Mikro,2018,7232.0
+368,559,Logam Dasar,Kecil,2018,246.0
+369,559,Barang Logam Bukan Mesin dan Peralatannya,Kecil,2018,10295.0
+370,559,Barang Logam Bukan Mesin dan Peralatannya,Mikro,2018,116171.0
+371,559,Komputer Barang Elektronik dan Optik,Mikro,2018,697.0
+372,559,Komputer Barang Elektronik dan Optik,Kecil,2018,100.0
+373,559,Peralatan Listrik,Mikro,2018,516.0
+374,559,Peralatan Listrik,Kecil,2018,214.0
+375,559,Mesin dan Perlengkapan ytdl,Kecil,2018,397.0
+376,559,Mesin dan Perlengkapan ytdl,Mikro,2018,3644.0
+377,559,Kendaraan Bermotor Trailer dan Semi Trailer,Mikro,2018,2344.0
+378,559,Kendaraan Bermotor Trailer dan Semi Trailer,Kecil,2018,500.0
+379,559,Alat Angkutan Lainnya,Kecil,2018,415.0
+380,559,Alat Angkutan Lainnya,Mikro,2018,7941.0
+381,559,Furnitur,Mikro,2018,145442.0
+382,559,Furnitur,Kecil,2018,15411.0
+383,559,Pengolahan Lainnya,Mikro,2018,152358.0
+384,559,Pengolahan Lainnya,Kecil,2018,3810.0
+385,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Mikro,2018,8611.0
+386,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Kecil,2018,424.0
+387,559,JUMLAH,Mikro,2018,3998337.0
+388,559,JUMLAH,Kecil,2018,265710.0
+389,559,Makanan,Mikro,2019,1544780.0
+390,559,Makanan,Kecil,2019,42239.0
+391,559,Minuman,Kecil,2019,1019.0
+392,559,Minuman,Mikro,2019,97882.0
+393,559,Pengolahan Tembakau,Mikro,2019,102026.0
+394,559,Pengolahan Tembakau,Kecil,2019,103858.0
+395,559,Tekstil,Kecil,2019,7335.0
+396,559,Tekstil,Mikro,2019,288819.0
+397,559,Pakaian Jadi,Mikro,2019,586412.0
+398,559,Pakaian Jadi,Kecil,2019,27256.0
+399,559,Kulit Barang dari Kulit dan Alas Kaki,Mikro,2019,51014.0
+400,559,Kulit Barang dari Kulit dan Alas Kaki,Kecil,2019,6308.0
+401,559,Kayu Barang dari Kayu dan Gabus (Tidak Termasuk Furnitur) dan Barang Anyaman dari Bambu Rotan dan sejenisnya,Kecil,2019,10414.0
+402,559,Kayu Barang dari Kayu dan Gabus (Tidak Termasuk Furnitur) dan Barang Anyaman dari Bambu Rotan dan sejenisnya,Mikro,2019,648012.0
+403,559,Kertas dan Barang dari Kertas,Mikro,2019,8709.0
+404,559,Kertas dan Barang dari Kertas,Kecil,2019,694.0
+405,559,Pencetakan dan Reproduksi Media Rekaman,Kecil,2019,3839.0
+406,559,Pencetakan dan Reproduksi Media Rekaman,Mikro,2019,27759.0
+407,559,Produk dari Batu Bara dan Pengilangan Minyak Bumi,Kecil,2019,0.0
+408,559,Produk dari Batu Bara dan Pengilangan Minyak Bumi,Mikro,2019,0.0
+409,559,Bahan Kimia dan Barang dari Bahan Kimia,Kecil,2019,709.0
+410,559,Bahan Kimia dan Barang dari Bahan Kimia,Mikro,2019,33881.0
+411,559,Farmasi Produk Obat Kimia dan Obat Tradisional,Kecil,2019,281.0
+412,559,Farmasi Produk Obat Kimia dan Obat Tradisional,Mikro,2019,14316.0
+413,559,Karet Barang dari Karet dan Plastik,Mikro,2019,13122.0
+414,559,Karet Barang dari Karet dan Plastik,Kecil,2019,1202.0
+415,559,Barang Galian Bukan Logam,Mikro,2019,219620.0
+416,559,Barang Galian Bukan Logam,Kecil,2019,20521.0
+417,559,Logam Dasar,Mikro,2019,3559.0
+418,559,Logam Dasar,Kecil,2019,184.0
+419,559,Barang Logam Bukan Mesin dan Peralatannya,Kecil,2019,6106.0
+420,559,Barang Logam Bukan Mesin dan Peralatannya,Mikro,2019,114626.0
+421,559,Komputer Barang Elektronik dan Optik,Mikro,2019,963.0
+422,559,Komputer Barang Elektronik dan Optik,Kecil,2019,32.0
+423,559,Peralatan Listrik,Kecil,2019,115.0
+424,559,Peralatan Listrik,Mikro,2019,1216.0
+425,559,Mesin dan Perlengkapan ytdl,Mikro,2019,2105.0
+426,559,Mesin dan Perlengkapan ytdl,Kecil,2019,526.0
+427,559,Kendaraan Bermotor Trailer dan Semi Trailer,Kecil,2019,599.0
+428,559,Kendaraan Bermotor Trailer dan Semi Trailer,Mikro,2019,1847.0
+429,559,Alat Angkutan Lainnya,Kecil,2019,472.0
+430,559,Alat Angkutan Lainnya,Mikro,2019,6730.0
+431,559,Furnitur,Kecil,2019,13739.0
+432,559,Furnitur,Mikro,2019,131036.0
+433,559,Pengolahan Lainnya,Kecil,2019,5259.0
+434,559,Pengolahan Lainnya,Mikro,2019,222149.0
+435,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Kecil,2019,361.0
+436,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Mikro,2019,6525.0
+437,559,JUMLAH,Kecil,2019,253068.0
+438,559,JUMLAH,Mikro,2019,4127108.0
+439,559,Makanan,Mikro,2020,1468120.0
+440,559,Makanan,Kecil,2020,50804.0
+441,559,Minuman,Mikro,2020,91243.0
+442,559,Minuman,Kecil,2020,2042.0
+443,559,Pengolahan Tembakau,Kecil,2020,115274.0
+444,559,Pengolahan Tembakau,Mikro,2020,82068.0
+445,559,Tekstil,Kecil,2020,7455.0
+446,559,Tekstil,Mikro,2020,280292.0
+447,559,Pakaian Jadi,Mikro,2020,557436.0
+448,559,Pakaian Jadi,Kecil,2020,33954.0
+449,559,Kulit Barang dari Kulit dan Alas Kaki,Mikro,2020,47321.0
+450,559,Kulit Barang dari Kulit dan Alas Kaki,Kecil,2020,6041.0
+451,559,Kayu Barang dari Kayu dan Gabus (Tidak Termasuk Furnitur) dan Barang Anyaman dari Bambu Rotan dan sejenisnya,Kecil,2020,13971.0
+452,559,Kayu Barang dari Kayu dan Gabus (Tidak Termasuk Furnitur) dan Barang Anyaman dari Bambu Rotan dan sejenisnya,Mikro,2020,618213.0
+453,559,Kertas dan Barang dari Kertas,Mikro,2020,5801.0
+454,559,Kertas dan Barang dari Kertas,Kecil,2020,634.0
+455,559,Pencetakan dan Reproduksi Media Rekaman,Kecil,2020,3698.0
+456,559,Pencetakan dan Reproduksi Media Rekaman,Mikro,2020,25090.0
+457,559,Produk dari Batu Bara dan Pengilangan Minyak Bumi,Kecil,2020,0.0
+458,559,Produk dari Batu Bara dan Pengilangan Minyak Bumi,Mikro,2020,0.0
+459,559,Bahan Kimia dan Barang dari Bahan Kimia,Kecil,2020,1108.0
+460,559,Bahan Kimia dan Barang dari Bahan Kimia,Mikro,2020,32414.0
+461,559,Farmasi Produk Obat Kimia dan Obat Tradisional,Mikro,2020,13896.0
+462,559,Farmasi Produk Obat Kimia dan Obat Tradisional,Kecil,2020,346.0
+463,559,Karet Barang dari Karet dan Plastik,Kecil,2020,1931.0
+464,559,Karet Barang dari Karet dan Plastik,Mikro,2020,12133.0
+465,559,Barang Galian Bukan Logam,Mikro,2020,207286.0
+466,559,Barang Galian Bukan Logam,Kecil,2020,26756.0
+467,559,Logam Dasar,Kecil,2020,315.0
+468,559,Logam Dasar,Mikro,2020,3676.0
+469,559,Barang Logam Bukan Mesin dan Peralatannya,Mikro,2020,108292.0
+470,559,Barang Logam Bukan Mesin dan Peralatannya,Kecil,2020,10050.0
+471,559,Komputer Barang Elektronik dan Optik,Mikro,2020,781.0
+472,559,Komputer Barang Elektronik dan Optik,Kecil,2020,85.0
+473,559,Peralatan Listrik,Mikro,2020,786.0
+474,559,Peralatan Listrik,Kecil,2020,164.0
+475,559,Mesin dan Perlengkapan ytdl,Mikro,2020,3512.0
+476,559,Mesin dan Perlengkapan ytdl,Kecil,2020,324.0
+477,559,Kendaraan Bermotor Trailer dan Semi Trailer,Mikro,2020,1405.0
+478,559,Kendaraan Bermotor Trailer dan Semi Trailer,Kecil,2020,705.0
+479,559,Alat Angkutan Lainnya,Kecil,2020,646.0
+480,559,Alat Angkutan Lainnya,Mikro,2020,5609.0
+481,559,Furnitur,Kecil,2020,16601.0
+482,559,Furnitur,Mikro,2020,124420.0
+483,559,Pengolahan Lainnya,Mikro,2020,214801.0
+484,559,Pengolahan Lainnya,Kecil,2020,6886.0
+485,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Kecil,2020,309.0
+486,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Mikro,2020,5123.0
+487,559,JUMLAH,Mikro,2020,3909718.0
+488,559,JUMLAH,Kecil,2020,300099.0
+489,559,Makanan,Mikro,2021,1507825.0
+490,559,Makanan,Kecil,2021,34585.0
+491,559,Minuman,Kecil,2021,731.0
+492,559,Minuman,Mikro,2021,111828.0
+493,559,Pengolahan Tembakau,Kecil,2021,93078.0
+494,559,Pengolahan Tembakau,Mikro,2021,94585.0
+495,559,Tekstil,Kecil,2021,3916.0
+496,559,Tekstil,Mikro,2021,263223.0
+497,559,Pakaian Jadi,Kecil,2021,25166.0
+498,559,Pakaian Jadi,Mikro,2021,508051.0
+499,559,Kulit Barang dari Kulit dan Alas Kaki,Mikro,2021,44225.0
+500,559,Kulit Barang dari Kulit dan Alas Kaki,Kecil,2021,6475.0
+501,559,Kayu Barang dari Kayu dan Gabus (Tidak Termasuk Furnitur) dan Barang Anyaman dari Bambu Rotan dan sejenisnya,Mikro,2021,612472.0
+502,559,Kayu Barang dari Kayu dan Gabus (Tidak Termasuk Furnitur) dan Barang Anyaman dari Bambu Rotan dan sejenisnya,Kecil,2021,7588.0
+503,559,Kertas dan Barang dari Kertas,Mikro,2021,5432.0
+504,559,Kertas dan Barang dari Kertas,Kecil,2021,264.0
+505,559,Pencetakan dan Reproduksi Media Rekaman,Mikro,2021,31966.0
+506,559,Pencetakan dan Reproduksi Media Rekaman,Kecil,2021,3375.0
+507,559,Produk dari Batu Bara dan Pengilangan Minyak Bumi,Kecil,2021,0.0
+508,559,Produk dari Batu Bara dan Pengilangan Minyak Bumi,Mikro,2021,0.0
+509,559,Bahan Kimia dan Barang dari Bahan Kimia,Mikro,2021,35391.0
+510,559,Bahan Kimia dan Barang dari Bahan Kimia,Kecil,2021,454.0
+511,559,Farmasi Produk Obat Kimia dan Obat Tradisional,Kecil,2021,35.0
+512,559,Farmasi Produk Obat Kimia dan Obat Tradisional,Mikro,2021,15143.0
+513,559,Karet Barang dari Karet dan Plastik,Kecil,2021,606.0
+514,559,Karet Barang dari Karet dan Plastik,Mikro,2021,5645.0
+515,559,Barang Galian Bukan Logam,Mikro,2021,216931.0
+516,559,Barang Galian Bukan Logam,Kecil,2021,13746.0
+517,559,Logam Dasar,Mikro,2021,9574.0
+518,559,Logam Dasar,Kecil,2021,324.0
+519,559,Barang Logam Bukan Mesin dan Peralatannya,Kecil,2021,5840.0
+520,559,Barang Logam Bukan Mesin dan Peralatannya,Mikro,2021,128527.0
+521,559,Komputer Barang Elektronik dan Optik,Mikro,2021,1140.0
+522,559,Komputer Barang Elektronik dan Optik,Kecil,2021,45.0
+523,559,Peralatan Listrik,Mikro,2021,857.0
+524,559,Peralatan Listrik,Kecil,2021,77.0
+525,559,Mesin dan Perlengkapan ytdl,Mikro,2021,2511.0
+526,559,Mesin dan Perlengkapan ytdl,Kecil,2021,440.0
+527,559,Kendaraan Bermotor Trailer dan Semi Trailer,Kecil,2021,218.0
+528,559,Kendaraan Bermotor Trailer dan Semi Trailer,Mikro,2021,2375.0
+529,559,Alat Angkutan Lainnya,Mikro,2021,7983.0
+530,559,Alat Angkutan Lainnya,Kecil,2021,315.0
+531,559,Furnitur,Mikro,2021,141424.0
+532,559,Furnitur,Kecil,2021,6528.0
+533,559,Pengolahan Lainnya,Kecil,2021,2609.0
+534,559,Pengolahan Lainnya,Mikro,2021,200185.0
+535,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Kecil,2021,190.0
+536,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Mikro,2021,8790.0
+537,559,JUMLAH,Mikro,2021,3956083.0
+538,559,JUMLAH,Kecil,2021,206605.0
+539,559,Makanan,Kecil,2022,35964.0
+540,559,Makanan,Mikro,2022,1556354.0
+541,559,Minuman,Mikro,2022,100860.0
+542,559,Minuman,Kecil,2022,1675.0
+543,559,Pengolahan Tembakau,Kecil,2022,97905.0
+544,559,Pengolahan Tembakau,Mikro,2022,98716.0
+545,559,Tekstil,Mikro,2022,298475.0
+546,559,Tekstil,Kecil,2022,5010.0
+547,559,Pakaian Jadi,Kecil,2022,22432.0
+548,559,Pakaian Jadi,Mikro,2022,572480.0
+549,559,Kulit Barang dari Kulit dan Alas Kaki,Kecil,2022,6291.0
+550,559,Kulit Barang dari Kulit dan Alas Kaki,Mikro,2022,54469.0
+551,559,Kayu Barang dari Kayu dan Gabus (Tidak Termasuk Furnitur) dan Barang Anyaman dari Bambu Rotan dan sejenisnya,Mikro,2022,602059.0
+552,559,Kayu Barang dari Kayu dan Gabus (Tidak Termasuk Furnitur) dan Barang Anyaman dari Bambu Rotan dan sejenisnya,Kecil,2022,6472.0
+553,559,Kertas dan Barang dari Kertas,Mikro,2022,4674.0
+554,559,Kertas dan Barang dari Kertas,Kecil,2022,533.0
+555,559,Pencetakan dan Reproduksi Media Rekaman,Mikro,2022,27306.0
+556,559,Pencetakan dan Reproduksi Media Rekaman,Kecil,2022,3966.0
+557,559,Produk dari Batu Bara dan Pengilangan Minyak Bumi,Mikro,2022,0.0
+558,559,Produk dari Batu Bara dan Pengilangan Minyak Bumi,Kecil,2022,0.0
+559,559,Bahan Kimia dan Barang dari Bahan Kimia,Kecil,2022,632.0
+560,559,Bahan Kimia dan Barang dari Bahan Kimia,Mikro,2022,31135.0
+561,559,Farmasi Produk Obat Kimia dan Obat Tradisional,Mikro,2022,17755.0
+562,559,Farmasi Produk Obat Kimia dan Obat Tradisional,Kecil,2022,581.0
+563,559,Karet Barang dari Karet dan Plastik,Kecil,2022,869.0
+564,559,Karet Barang dari Karet dan Plastik,Mikro,2022,5344.0
+565,559,Barang Galian Bukan Logam,Kecil,2022,14613.0
+566,559,Barang Galian Bukan Logam,Mikro,2022,203482.0
+567,559,Logam Dasar,Kecil,2022,125.0
+568,559,Logam Dasar,Mikro,2022,7732.0
+569,559,Barang Logam Bukan Mesin dan Peralatannya,Kecil,2022,5029.0
+570,559,Barang Logam Bukan Mesin dan Peralatannya,Mikro,2022,124827.0
+571,559,Komputer Barang Elektronik dan Optik,Kecil,2022,32.0
+572,559,Komputer Barang Elektronik dan Optik,Mikro,2022,607.0
+573,559,Peralatan Listrik,Kecil,2022,306.0
+574,559,Peralatan Listrik,Mikro,2022,1643.0
+575,559,Mesin dan Perlengkapan ytdl,Mikro,2022,2504.0
+576,559,Mesin dan Perlengkapan ytdl,Kecil,2022,588.0
+577,559,Kendaraan Bermotor Trailer dan Semi Trailer,Mikro,2022,2829.0
+578,559,Kendaraan Bermotor Trailer dan Semi Trailer,Kecil,2022,610.0
+579,559,Alat Angkutan Lainnya,Mikro,2022,6061.0
+580,559,Alat Angkutan Lainnya,Kecil,2022,315.0
+581,559,Furnitur,Mikro,2022,139741.0
+582,559,Furnitur,Kecil,2022,8886.0
+583,559,Pengolahan Lainnya,Mikro,2022,258448.0
+584,559,Pengolahan Lainnya,Kecil,2022,3188.0
+585,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Kecil,2022,337.0
+586,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Mikro,2022,5368.0
+587,559,JUMLAH,Kecil,2022,216359.0
+588,559,JUMLAH,Mikro,2022,4122869.0
+589,559,Makanan,Mikro,2023,1714014.0
+590,559,Makanan,Kecil,2023,86813.0
+591,559,Minuman,Mikro,2023,112665.0
+592,559,Minuman,Kecil,2023,2602.0
+593,559,Pengolahan Tembakau,Kecil,2023,105065.0
+594,559,Pengolahan Tembakau,Mikro,2023,109090.0
+595,559,Tekstil,Mikro,2023,256308.0
+596,559,Tekstil,Kecil,2023,6996.0
+597,559,Pakaian Jadi,Kecil,2023,46574.0
+598,559,Pakaian Jadi,Mikro,2023,576749.0
+599,559,Kulit Barang dari Kulit dan Alas Kaki,Mikro,2023,43129.0
+600,559,Kulit Barang dari Kulit dan Alas Kaki,Kecil,2023,5407.0
+601,559,Kayu Barang dari Kayu dan Gabus (Tidak Termasuk Furnitur) dan Barang Anyaman dari Bambu Rotan dan sejenisnya,Kecil,2023,13734.0
+602,559,Kayu Barang dari Kayu dan Gabus (Tidak Termasuk Furnitur) dan Barang Anyaman dari Bambu Rotan dan sejenisnya,Mikro,2023,641054.0
+603,559,Kertas dan Barang dari Kertas,Mikro,2023,3822.0
+604,559,Kertas dan Barang dari Kertas,Kecil,2023,627.0
+605,559,Pencetakan dan Reproduksi Media Rekaman,Mikro,2023,28224.0
+606,559,Pencetakan dan Reproduksi Media Rekaman,Kecil,2023,4483.0
+607,559,Produk dari Batu Bara dan Pengilangan Minyak Bumi,Mikro,2023,0.0
+608,559,Produk dari Batu Bara dan Pengilangan Minyak Bumi,Kecil,2023,0.0
+609,559,Bahan Kimia dan Barang dari Bahan Kimia,Kecil,2023,841.0
+610,559,Bahan Kimia dan Barang dari Bahan Kimia,Mikro,2023,21762.0
+611,559,Farmasi Produk Obat Kimia dan Obat Tradisional,Kecil,2023,907.0
+612,559,Farmasi Produk Obat Kimia dan Obat Tradisional,Mikro,2023,26121.0
+613,559,Karet Barang dari Karet dan Plastik,Mikro,2023,6640.0
+614,559,Karet Barang dari Karet dan Plastik,Kecil,2023,977.0
+615,559,Barang Galian Bukan Logam,Mikro,2023,159108.0
+616,559,Barang Galian Bukan Logam,Kecil,2023,15135.0
+617,559,Logam Dasar,Kecil,2023,239.0
+618,559,Logam Dasar,Mikro,2023,4645.0
+619,559,Barang Logam Bukan Mesin dan Peralatannya,Mikro,2023,124482.0
+620,559,Barang Logam Bukan Mesin dan Peralatannya,Kecil,2023,7913.0
+621,559,Komputer Barang Elektronik dan Optik,Mikro,2023,1298.0
+622,559,Komputer Barang Elektronik dan Optik,Kecil,2023,148.0
+623,559,Peralatan Listrik,Mikro,2023,1749.0
+624,559,Peralatan Listrik,Kecil,2023,202.0
+625,559,Mesin dan Perlengkapan ytdl,Mikro,2023,4556.0
+626,559,Mesin dan Perlengkapan ytdl,Kecil,2023,1511.0
+627,559,Kendaraan Bermotor Trailer dan Semi Trailer,Kecil,2023,677.0
+628,559,Kendaraan Bermotor Trailer dan Semi Trailer,Mikro,2023,2194.0
+629,559,Alat Angkutan Lainnya,Kecil,2023,462.0
+630,559,Alat Angkutan Lainnya,Mikro,2023,10351.0
+631,559,Furnitur,Mikro,2023,116074.0
+632,559,Furnitur,Kecil,2023,10064.0
+633,559,Pengolahan Lainnya,Kecil,2023,7927.0
+634,559,Pengolahan Lainnya,Mikro,2023,209256.0
+635,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Mikro,2023,7837.0
+636,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Kecil,2023,152.0
+637,559,JUMLAH,Mikro,2023,4181128.0
+638,559,JUMLAH,Kecil,2023,319456.0
+639,559,Makanan,Mikro,2024,1856116.0
+640,559,Makanan,Kecil,2024,86734.0
+641,559,Minuman,Mikro,2024,116633.0
+642,559,Minuman,Kecil,2024,2680.0
+643,559,Pengolahan Tembakau,Kecil,2024,91284.0
+644,559,Pengolahan Tembakau,Mikro,2024,74501.0
+645,559,Tekstil,Kecil,2024,6645.0
+646,559,Tekstil,Mikro,2024,231577.0
+647,559,Pakaian Jadi,Mikro,2024,554112.0
+648,559,Pakaian Jadi,Kecil,2024,40485.0
+649,559,Kulit Barang dari Kulit dan Alas Kaki,Kecil,2024,11291.0
+650,559,Kulit Barang dari Kulit dan Alas Kaki,Mikro,2024,42042.0
+651,559,Kayu Barang dari Kayu dan Gabus (Tidak Termasuk Furnitur) dan Barang Anyaman dari Bambu Rotan dan sejenisnya,Kecil,2024,11094.0
+652,559,Kayu Barang dari Kayu dan Gabus (Tidak Termasuk Furnitur) dan Barang Anyaman dari Bambu Rotan dan sejenisnya,Mikro,2024,515760.0
+653,559,Kertas dan Barang dari Kertas,Kecil,2024,1263.0
+654,559,Kertas dan Barang dari Kertas,Mikro,2024,4816.0
+655,559,Pencetakan dan Reproduksi Media Rekaman,Mikro,2024,26531.0
+656,559,Pencetakan dan Reproduksi Media Rekaman,Kecil,2024,5385.0
+657,559,Produk dari Batu Bara dan Pengilangan Minyak Bumi,Mikro,2024,0.0
+658,559,Produk dari Batu Bara dan Pengilangan Minyak Bumi,Kecil,2024,0.0
+659,559,Bahan Kimia dan Barang dari Bahan Kimia,Kecil,2024,1552.0
+660,559,Bahan Kimia dan Barang dari Bahan Kimia,Mikro,2024,22646.0
+661,559,Farmasi Produk Obat Kimia dan Obat Tradisional,Mikro,2024,18316.0
+662,559,Farmasi Produk Obat Kimia dan Obat Tradisional,Kecil,2024,1017.0
+663,559,Karet Barang dari Karet dan Plastik,Kecil,2024,1711.0
+664,559,Karet Barang dari Karet dan Plastik,Mikro,2024,6988.0
+665,559,Barang Galian Bukan Logam,Kecil,2024,16173.0
+666,559,Barang Galian Bukan Logam,Mikro,2024,135066.0
+667,559,Logam Dasar,Mikro,2024,7230.0
+668,559,Logam Dasar,Kecil,2024,37.0
+669,559,Barang Logam Bukan Mesin dan Peralatannya,Kecil,2024,9441.0
+670,559,Barang Logam Bukan Mesin dan Peralatannya,Mikro,2024,124459.0
+671,559,Komputer Barang Elektronik dan Optik,Mikro,2024,2019.0
+672,559,Komputer Barang Elektronik dan Optik,Kecil,2024,12.0
+673,559,Peralatan Listrik,Kecil,2024,231.0
+674,559,Peralatan Listrik,Mikro,2024,831.0
+675,559,Mesin dan Perlengkapan ytdl,Mikro,2024,2902.0
+676,559,Mesin dan Perlengkapan ytdl,Kecil,2024,738.0
+677,559,Kendaraan Bermotor Trailer dan Semi Trailer,Kecil,2024,205.0
+678,559,Kendaraan Bermotor Trailer dan Semi Trailer,Mikro,2024,1649.0
+679,559,Alat Angkutan Lainnya,Kecil,2024,520.0
+680,559,Alat Angkutan Lainnya,Mikro,2024,5029.0
+681,559,Furnitur,Kecil,2024,11140.0
+682,559,Furnitur,Mikro,2024,124324.0
+683,559,Pengolahan Lainnya,Kecil,2024,6337.0
+684,559,Pengolahan Lainnya,Mikro,2024,231395.0
+685,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Kecil,2024,71.0
+686,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Mikro,2024,2455.0
+687,559,JUMLAH,Kecil,2024,306046.0
+688,559,JUMLAH,Mikro,2024,4107397.0
