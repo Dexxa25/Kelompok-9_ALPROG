@@ -45,8 +45,6 @@ id,id_kategori,kbli_2_digit_deskripsi,nama_variabel,tahun,jumlah
 44,559,Pengolahan Lainnya,Kecil,2010,7306.0
 45,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Mikro,2010,6481.0
 46,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Kecil,2010,703.0
-47,559,JUMLAH,Mikro,2010,2529847.0
-48,559,JUMLAH,Kecil,2010,202877.0
 49,559,Makanan,Kecil,2011,118403.0
 50,559,Makanan,Mikro,2011,872869.0
 51,559,Minuman,Mikro,2011,32516.0
@@ -93,8 +91,6 @@ id,id_kategori,kbli_2_digit_deskripsi,nama_variabel,tahun,jumlah
 92,559,Pengolahan Lainnya,Mikro,2011,51986.0
 93,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Kecil,2011,1120.0
 94,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Mikro,2011,5616.0
-95,559,JUMLAH,Mikro,2011,2554787.0
-96,559,JUMLAH,Kecil,2011,424284.0
 97,559,Makanan,Kecil,2012,70712.0
 98,559,Makanan,Mikro,2012,871898.0
 99,559,Minuman,Mikro,2012,51069.0
@@ -141,8 +137,6 @@ id,id_kategori,kbli_2_digit_deskripsi,nama_variabel,tahun,jumlah
 140,559,Pengolahan Lainnya,Kecil,2012,23884.0
 141,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Mikro,2012,7270.0
 142,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Kecil,2012,1103.0
-143,559,JUMLAH,Mikro,2012,2812747.0
-144,559,JUMLAH,Kecil,2012,405296.0
 145,559,Makanan,Mikro,2013,1008890.0
 146,559,Makanan,Kecil,2013,158651.0
 147,559,Minuman,Mikro,2013,45508.0
@@ -189,8 +183,6 @@ id,id_kategori,kbli_2_digit_deskripsi,nama_variabel,tahun,jumlah
 188,559,Pengolahan Lainnya,Kecil,2013,13723.0
 189,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Mikro,2013,7741.0
 190,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Kecil,2013,427.0
-191,559,JUMLAH,Mikro,2013,2887015.0
-192,559,JUMLAH,Kecil,2013,531351.0
 193,559,Makanan,Mikro,2014,1125425.0
 194,559,Makanan,Kecil,2014,73066.0
 195,559,Minuman,Kecil,2014,1401.0
@@ -237,8 +229,6 @@ id,id_kategori,kbli_2_digit_deskripsi,nama_variabel,tahun,jumlah
 236,559,Pengolahan Lainnya,Kecil,2014,9031.0
 237,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Kecil,2014,113.0
 238,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Mikro,2014,8467.0
-239,559,JUMLAH,Mikro,2014,3220563.0
-240,559,JUMLAH,Kecil,2014,284501.0
 241,559,Makanan,Mikro,2015,1473205.0
 242,559,Makanan,Kecil,2015,93814.0
 243,559,Minuman,Mikro,2015,45922.0
@@ -285,8 +275,6 @@ id,id_kategori,kbli_2_digit_deskripsi,nama_variabel,tahun,jumlah
 284,559,Pengolahan Lainnya,Mikro,2015,73002.0
 285,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Mikro,2015,6253.0
 286,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Kecil,2015,578.0
-287,559,JUMLAH,Kecil,2015,283022.0
-288,559,JUMLAH,Mikro,2015,3385851.0
 289,559,Makanan,Mikro,2017,1467095.0
 290,559,Makanan,Kecil,2017,71022.0
 291,559,Minuman,Kecil,2017,1698.0
@@ -335,8 +323,6 @@ id,id_kategori,kbli_2_digit_deskripsi,nama_variabel,tahun,jumlah
 334,559,Pengolahan Lainnya,Kecil,2017,7481.0
 335,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Kecil,2017,333.0
 336,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Mikro,2017,6403.0
-337,559,JUMLAH,Mikro,2017,4105897.0
-338,559,JUMLAH,Kecil,2017,358791.0
 339,559,Makanan,Kecil,2018,59793.0
 340,559,Makanan,Mikro,2018,1681986.0
 341,559,Minuman,Kecil,2018,2310.0
@@ -385,8 +371,6 @@ id,id_kategori,kbli_2_digit_deskripsi,nama_variabel,tahun,jumlah
 384,559,Pengolahan Lainnya,Kecil,2018,3810.0
 385,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Mikro,2018,8611.0
 386,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Kecil,2018,424.0
-387,559,JUMLAH,Mikro,2018,3998337.0
-388,559,JUMLAH,Kecil,2018,265710.0
 389,559,Makanan,Mikro,2019,1544780.0
 390,559,Makanan,Kecil,2019,42239.0
 391,559,Minuman,Kecil,2019,1019.0
@@ -435,8 +419,6 @@ id,id_kategori,kbli_2_digit_deskripsi,nama_variabel,tahun,jumlah
 434,559,Pengolahan Lainnya,Mikro,2019,222149.0
 435,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Kecil,2019,361.0
 436,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Mikro,2019,6525.0
-437,559,JUMLAH,Kecil,2019,253068.0
-438,559,JUMLAH,Mikro,2019,4127108.0
 439,559,Makanan,Mikro,2020,1468120.0
 440,559,Makanan,Kecil,2020,50804.0
 441,559,Minuman,Mikro,2020,91243.0
@@ -485,8 +467,6 @@ id,id_kategori,kbli_2_digit_deskripsi,nama_variabel,tahun,jumlah
 484,559,Pengolahan Lainnya,Kecil,2020,6886.0
 485,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Kecil,2020,309.0
 486,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Mikro,2020,5123.0
-487,559,JUMLAH,Mikro,2020,3909718.0
-488,559,JUMLAH,Kecil,2020,300099.0
 489,559,Makanan,Mikro,2021,1507825.0
 490,559,Makanan,Kecil,2021,34585.0
 491,559,Minuman,Kecil,2021,731.0
@@ -535,8 +515,6 @@ id,id_kategori,kbli_2_digit_deskripsi,nama_variabel,tahun,jumlah
 534,559,Pengolahan Lainnya,Mikro,2021,200185.0
 535,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Kecil,2021,190.0
 536,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Mikro,2021,8790.0
-537,559,JUMLAH,Mikro,2021,3956083.0
-538,559,JUMLAH,Kecil,2021,206605.0
 539,559,Makanan,Kecil,2022,35964.0
 540,559,Makanan,Mikro,2022,1556354.0
 541,559,Minuman,Mikro,2022,100860.0
@@ -585,8 +563,6 @@ id,id_kategori,kbli_2_digit_deskripsi,nama_variabel,tahun,jumlah
 584,559,Pengolahan Lainnya,Kecil,2022,3188.0
 585,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Kecil,2022,337.0
 586,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Mikro,2022,5368.0
-587,559,JUMLAH,Kecil,2022,216359.0
-588,559,JUMLAH,Mikro,2022,4122869.0
 589,559,Makanan,Mikro,2023,1714014.0
 590,559,Makanan,Kecil,2023,86813.0
 591,559,Minuman,Mikro,2023,112665.0
@@ -635,8 +611,6 @@ id,id_kategori,kbli_2_digit_deskripsi,nama_variabel,tahun,jumlah
 634,559,Pengolahan Lainnya,Mikro,2023,209256.0
 635,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Mikro,2023,7837.0
 636,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Kecil,2023,152.0
-637,559,JUMLAH,Mikro,2023,4181128.0
-638,559,JUMLAH,Kecil,2023,319456.0
 639,559,Makanan,Mikro,2024,1856116.0
 640,559,Makanan,Kecil,2024,86734.0
 641,559,Minuman,Mikro,2024,116633.0
@@ -685,5 +659,3 @@ id,id_kategori,kbli_2_digit_deskripsi,nama_variabel,tahun,jumlah
 684,559,Pengolahan Lainnya,Mikro,2024,231395.0
 685,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Kecil,2024,71.0
 686,559,Jasa Reparasi dan Pemasangan Mesin dan Peralatan,Mikro,2024,2455.0
-687,559,JUMLAH,Kecil,2024,306046.0
-688,559,JUMLAH,Mikro,2024,4107397.0
